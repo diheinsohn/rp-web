@@ -2,6 +2,7 @@ import React from 'react';
 
 import {
   Box,
+  Button,
   Typography,
   useMediaQuery,
 } from "@mui/material";

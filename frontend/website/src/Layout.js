@@ -1,6 +1,5 @@
 // React + Material UI
 import React from 'react';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
 //Layout
 import Landing from './pages/Landing';
 import Staking from './pages/Staking';
@@ -8,19 +7,15 @@ import Staking from './pages/Staking';
 import TopMenu from './components/TopMenu';
 import Footer from './components/Footer';
 
-const Layout = (props) => {
-  const { classes } = props;
+const Layout = () => {
+  //const { classes } = props;
   
   return(
-    <Router style={{display: 'flex'}}>
-      <div className={classes.appContent}>
-        <TopMenu />
-        <Landing />
-          <Route path="/" component={Landing} />
-          <Route path="/staking" component={Staking} />
-        <Footer />
-      </div>
-    </Router>
+    <div>
+      <TopMenu />
+      <Landing />
+      <Footer />
+    </div>
   )
 }
 

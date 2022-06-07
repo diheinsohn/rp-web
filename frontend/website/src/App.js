@@ -1,6 +1,7 @@
+import React from 'react';
 import Layout from "./Layout"
 
-const App = props => {
+const App = () => {
   //const { classes } = props;
 
   return (

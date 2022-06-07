@@ -5,8 +5,8 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import Landing from './pages/Landing';
 import Staking from './pages/Staking';
 //Menu
-import TopMenu from './components/TopMenu/TopMenu';
-import Footer from './components/Footer/Footer';
+import TopMenu from './components/TopMenu';
+import Footer from './components/Footer';
 
 const Layout = (props) => {
   const { classes } = props;

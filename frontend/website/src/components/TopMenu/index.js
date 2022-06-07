@@ -7,8 +7,8 @@ import {
   useMediaQuery,
 } from "@mui/material"
 
-import mobileLogo from "../assets/images/mobileLogo.svg";
-import Logo from "../assets/images/RocketPoolLogo V2 - Negative.svg";
+import mobileLogo from "../../assets/images/mobileLogo.svg";
+import Logo from "../../assets/images/RocketPoolLogo V2 - Negative.svg";
 //import Medium from "../assets/icons/medium-brands.svg";
 //import Github from "../assets/icons/github-brands.svg";
 //import Discord from "../assets/icons/discord-brands.svg";

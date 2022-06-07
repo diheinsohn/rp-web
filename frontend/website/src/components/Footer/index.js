@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import Logo from "../assets/images/RocketPoolLogo V2 - Negative.svg";
+import Logo from "../../assets/images/RocketPoolLogo V2 - Negative.svg";
 
 const Footer = () => {
   return (

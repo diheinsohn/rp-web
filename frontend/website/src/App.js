@@ -1,7 +1,7 @@
-import Layout from "./src/Layout"
+import Layout from "./Layout"
 
 const App = props => {
-  const { classes } = props;
+  //const { classes } = props;
 
   return (
     <Layout />

@@ -1,4 +1,4 @@
-import Layout from "./Layout"
+import Layout from "./src/Layout"
 
 const App = props => {
   const { classes } = props;

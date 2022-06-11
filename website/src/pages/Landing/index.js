@@ -20,25 +20,25 @@ const styles = {
   appContent: {
     flex: 1,
     direction: 'flex',
+    position: 'relative',
   },
   back: {
     backgroundColor: 'rgba(25,12,77,1)',
     width: "100%",
     opacity: 1,
-    zIndex: -1,
     position: "absolute",
-    top: 0,
+    top: 100,
     left: 0,
-    "&:after": {
-      content: '""',
-      position: "absolute",
-      top: 0,
-      left: 0,
-      width: "100%",
-      height: "100%",
-      opacity: 0.7,
-      zIndex: -10,
-    },
+    //"&:after": {
+    //  content: '""',
+    //  position: "absolute",
+    //  top: 0,
+    //  left: 0,
+    //  width: "100%",
+    //  height: "100%",
+    //  opacity: 0.7,
+    //  zIndex: -10,
+    //},
   },
 }
 
@@ -48,9 +48,8 @@ const Landing = (props) => {
 
   return(
     <div className={styles.appContent}>
-    
+      <TopMenu />
       <Box sx={styles.back}>
-        <TopMenu />
         <Box
           sx={{
             backgroundColor: "rgba(25,12,77,1)",
@@ -81,7 +80,18 @@ const Landing = (props) => {
               <p> The first truly decentralised </p>
               <p> Ethereum staking pool. </p>
             </Typography>
-            <Button color="secondary" variant="contained">
+            <Button 
+              sx={{
+                color: 'white',
+                backgroundColor: '#FF990F',
+                borderColor: '#FF990F',
+              }}
+              color="secondary" 
+              variant="outlined"
+              onClick={() => {
+                window.open("https://stake.rocketpool.net", "_blank");
+              }}
+            >
               Stake Now
             </Button> 
           </Box>

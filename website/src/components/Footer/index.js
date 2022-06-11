@@ -3,13 +3,14 @@ import { Link } from "@mui/material";
 import Logo from "../../assets/images/RocketPoolLogo V2 - Positive.svg";
 import {
   Box,
+  Typography,
   Stack,
 } from "@mui/material";
 
 const Footer = () => {
   return (
     <Box sx={{backgroundColor: ' rgba(255,255,255,1)'}}>
-      <Stack direction="row" spacing={20}>        
+      <Stack direction="row" justifyContent="space-evenly">        
         <Link
           to={"/"}
           aria-label="company"
@@ -19,8 +20,8 @@ const Footer = () => {
           <img src={Logo} alt="Rocket Pool" />
         </Link>
     
-        <Stack direction= "column" spacing={1}>      
-          Staking 
+        <Stack direction= "column" spacing={1}>
+          <Typography variant= "h6">Staking</Typography>
           <Link
             to={""}
             aria-label=""
@@ -30,12 +31,11 @@ const Footer = () => {
             Overview
           </Link>
           <Link
-            to={"https://stake.rocketpool.net"}
-            aria-label=""
-            title="Stake"
-            className=""
+            onClick={ () => {
+              window.open('https://stake.rocketpool.net/', '_blank');
+            }}
           >
-            Rocket Pool Staking
+            {'Rocket Pool Staking'}
           </Link>
           <Link
             to={""}
@@ -56,7 +56,7 @@ const Footer = () => {
         </Stack>
 
         <Stack direction="column" spacing={1}>
-          Node Operator
+          <Typography variant= "h6">Node Operator</Typography>
           <Link
             to={""}
             aria-label=""
@@ -90,8 +90,8 @@ const Footer = () => {
             Local Nodes
           </Link>
         </Stack>
-        <Stack direction="column" spacing={2}>
-          Learn 
+        <Stack direction="column" spacing={1}>
+          <Typography variant= "h6">Learn</Typography>
           <Link
             to={""}
             aria-label=""

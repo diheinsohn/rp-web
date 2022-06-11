@@ -28,6 +28,13 @@ const mdTheme = createTheme({
   mainContent: {
     flex: 1,
   },
+  overrides: {
+    MuiButton: {
+      raisedPrimary: {
+        color: 'white',
+      },
+    },
+  },
 
 });
 

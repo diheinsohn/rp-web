@@ -3,8 +3,9 @@ import { Link } from "@mui/material";
 
 import { 
   Box,
-//  IconButton,
+  IconButton,
   Stack,
+  Typography,
 //  TextField,
   useMediaQuery,
 } from "@mui/material"
@@ -16,17 +17,20 @@ import Medium from "../../assets/icons/medium-brands.svg";
 import Github from "../../assets/icons/github-brands.svg";
 import Discord from "../../assets/icons/discord-brands.svg";
 import Twitter from "../../assets/icons/twitter-brands.svg";
+import Droplet from "../../assets/icons/droplet-solid.svg";
+import NodeOp from "../../assets/icons/user-astronaut-solid.svg";
+import Learn from "../../assets/icons/learn-shape.svg";
 
 const styles = {
   banner: {
     backgroundColor: 'rgba(25,12,77,1)',
-    height: "100hv",
+    height: "100px",
     width: "100%",
     opacity: 1,
-    zIndex: -1,
     position: "absolute",
     top: 0,
     left: 0,
+    backgroundImage: "linear-gradient(rgb(0,0,0,0.7), rgb(0,0,0,0))",
     "&:after": {
       content: '""',
       position: "absolute",
@@ -34,7 +38,7 @@ const styles = {
       left: 0,
       width: "100%",
       height: "100%",
-      backgroundImage: "linear-gradient(rgb(0,0,0,0.8), rgb(0,0,0,0.1))",
+      backgroundImage: "linear-gradient(rgb(0,0,0,0.7), rgb(0,0,0,0))",
       opacity: 0.7,
       zIndex: -10,
     },
@@ -66,49 +70,116 @@ const TopMenu = () => {
           />
         </Box>
         <Box>
+          <Stack 
+            sx={{
+              alignItems: "center",
+            }} 
+            direction="row"
+          >
+            <img
+              src= {Droplet} 
+              onClick= {() =>{
+                window.open("https://stake.rocketpool.net", "_blank");
+              }} 
+            /> 
+            <Typography 
+              sx={{marginRight: "1rem", marginLeft: "0.5rem"}} 
+              variant="caption"
+              color= "white"
+              onClick= {() =>{
+                window.open("https://stake.rocketpool.net", "_blank");
+              }} 
+            > 
+              Staking 
+            </Typography>
+            <img 
+              src= {NodeOp} 
+              onClick= {() =>{
+                window.open("https://rocketpool.net/node-operators", "_blank");
+              }} 
+            /> 
+            <Typography 
+              sx={{marginRight: "1rem", marginLeft: "0.5rem"}} 
+              color= "white"
+              variant="caption"
+              onClick= {() =>{
+                window.open("https://rocketpool.net/node-operators", "_blank");
+              }} 
+            > 
+              Node Operator 
+            </Typography>
+            <img 
+              src= {Learn} 
+              onClick= {() =>{
+                window.open("https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-1-8be4859e5fbd", "_blank");
+              }} 
+            /> 
 
-    
+            <Typography 
+              sx={{marginRight: "1rem", marginLeft: "0.5rem"}} 
+              color= "white"
+              variant= "caption"
+              onClick= {() =>{
+                window.open("https://medium.com/rocket-pool/rocket-pool-staking-protocol-part-1-8be4859e5fbd", "_blank");
+              }} 
+            > 
+              Learn 
+            </Typography>
+          </Stack>
         </Box>
         <Box
           sx={{
             display: "flex",
-            justifyContent: "space-between",
-            alignItems: "center",
+            justifyContent: "space-evenly",
+            alignItems: "right",
             p: "2rem",
             ...(isMedium && {
               p: "1rem",
             }),
           }}
         >
-          <Stack direction="row" spacing={1}>
-            <Link href="https://medium.com/rocket-pool/" target="_blank" rel="noreferrer">
+          <Stack direction="row">
+            <IconButton 
+              onClick={() => {
+                window.open("https://medium.com/rocket-pool", "_blank");
+              }}
+            >
               <img
-                style={{ marginRight: "1rem" }}
                 src={ Medium } 
-                alt="Medium" 
+                alt="Medium"
               />
-            </Link>
-            <Link to="" target="_blank">
+            </IconButton>
+            <IconButton
+              onClick={() => {
+                
+                window.open("https://discord.gg/5QxWCHYg", "_blank");
+              }}
+            >
               <img
-                style={{ marginRight: "1rem" }}
                 src={ Discord } 
                 alt="Discord" 
               />
-            </Link>
-            <Link to="https://twitter.com/rocket_pool" target="_blank">
+            </IconButton>
+            <IconButton 
+              onClick={() => {
+                window.open("https://twitter.com/rocket_pool", "_blank");
+              }}
+            >
               <img
-                style={{ marginRight: "1rem" }}
                 src={ Twitter } 
                 alt="Twitter" 
               />
-            </Link>
-            <Link to="https://github.com/rocket-pool/" target="_blank">
+            </IconButton>
+            <IconButton 
+              onClick={() => {
+                window.open("https://github.com/rocket-pool", "_blank");
+              }}
+            >
               <img
-                style={{ marginRight: "1rem" }}
                 src={ Github } 
                 alt="Github" 
               />
-            </Link>
+            </IconButton>
           </Stack>
         </Box>
       </Box>

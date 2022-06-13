@@ -24,24 +24,13 @@ import Learn from "../../assets/icons/learn-shape.svg";
 const styles = {
   banner: {
     backgroundColor: 'rgba(25,12,77,1)',
-    height: "100px",
+    height: "150px",
     width: "100%",
     opacity: 1,
     position: "absolute",
     top: 0,
     left: 0,
     backgroundImage: "linear-gradient(rgb(0,0,0,0.7), rgb(0,0,0,0))",
-    "&:after": {
-      content: '""',
-      position: "absolute",
-      top: 0,
-      left: 0,
-      width: "100%",
-      height: "100%",
-      backgroundImage: "linear-gradient(rgb(0,0,0,0.7), rgb(0,0,0,0))",
-      opacity: 0.7,
-      zIndex: -10,
-    },
   },
 }
 
@@ -151,7 +140,6 @@ const TopMenu = () => {
             </IconButton>
             <IconButton
               onClick={() => {
-                
                 window.open("https://discord.gg/5QxWCHYg", "_blank");
               }}
             >

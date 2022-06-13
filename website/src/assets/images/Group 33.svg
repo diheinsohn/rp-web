@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1442px" height="950px" viewBox="0 0 1442 950" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 33</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1442" height="950"></rect>
+        <rect id="path-3" x="2.84217094e-14" y="0" width="500" height="810" rx="8"></rect>
+        <filter x="-3.0%" y="-1.9%" width="106.0%" height="103.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M8,0 L492,0 C496.418278,2.96939504e-14 500,3.581722 500,8 L500,186 L500,186 L0,186 L0,8 C-1.42926142e-15,3.581722 3.581722,-7.65539184e-17 8,0 Z" id="path-5"></path>
+        <text id="text-7" font-family="Helvetica" font-size="19" font-weight="normal" fill="#FFFFFF">
+            <tspan x="40" y="26">Stake Now</tspan>
+        </text>
+        <filter x="-5.9%" y="-22.2%" width="111.9%" height="144.4%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="1.13686838e-13" y="0" width="500" height="810" rx="8"></rect>
+        <filter x="-3.0%" y="-1.9%" width="106.0%" height="103.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M8,0 L492,0 C496.418278,2.96939504e-14 500,3.581722 500,8 L500,186 L500,186 L0,186 L0,8 C-1.42926142e-15,3.581722 3.581722,-7.65539184e-17 8,0 Z" id="path-11"></path>
+        <text id="text-13" font-family="Helvetica" font-size="19" font-weight="normal" fill="#FFFFFF">
+            <tspan x="40.9191895" y="26">Get Started</tspan>
+        </text>
+        <filter x="-5.5%" y="-22.2%" width="111.0%" height="144.4%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(0.000000, -1146.000000)">
+            <g id="Group-33" transform="translate(0.000000, 1146.000000)">
+                <g id="Oval-+-Oval-Copy-Mask">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#F2F2F2" xlink:href="#path-1"></use>
+                    <circle id="Oval" fill-opacity="0.2" fill="#CDCDCD" mask="url(#mask-2)" cx="17" cy="-7" r="176"></circle>
+                    <circle id="Oval" fill-opacity="0.2" fill="#CDCDCD" mask="url(#mask-2)" cx="720.5" cy="522.5" r="623.5"></circle>
+                    <circle id="Oval" fill-opacity="0.2" fill="#C9C9C9" mask="url(#mask-2)" cx="1176" cy="905" r="241"></circle>
+                    <circle id="Oval-Copy" fill-opacity="0.2" fill="#D7D7D7" mask="url(#mask-2)" cx="1423" cy="-25" r="160"></circle>
+                    <circle id="Oval-Copy" fill-opacity="0.5" fill="#D5D5D5" mask="url(#mask-2)" cx="1354" cy="117" r="17"></circle>
+                    <circle id="Oval-Copy" fill-opacity="0.5" fill="#E1E1E1" mask="url(#mask-2)" cx="148" cy="768" r="17"></circle>
+                </g>
+                <g id="Group-2" transform="translate(209.000000, 60.000000)">
+                    <g id="Group-25">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <g id="Group-3">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="Mask" fill="#FF990F" xlink:href="#path-5"></use>
+                            <path d="M109.5,201.488819 L199,147 L109.5,277 L20,147 L109.5,201.488819 Z M109.528137,-24 L199,129.413475 L109.528137,184 L20,129.413475 L109.528137,-24 Z M110,356 C208.859143,356 289,275.909094 289,176.208156 C289,101.81065 184.954971,-57.2161277 135.5254,-128.496063 C123.015857,-146.501312 96.9841429,-146.501312 84.4746,-128.496063 C35.0450286,-57.2161277 -69,101.81065 -69,176.208156 C-69,275.909094 11.1408571,356 110,356 L110,356 Z" id="Fill-1" fill-opacity="0.15" fill="#FFFFFF" style="mix-blend-mode: overlay;" mask="url(#mask-6)"></path>
+                        </g>
+                        <g id="Group-49" transform="translate(44.000000, 465.000000)">
+                            <g id="lock-keyhole-solid" transform="translate(0.000000, 18.000000)" fill-rule="nonzero">
+                                <g id="lock-keyhole-duotone">
+                                    <path d="M28.2857143,14.1428571 C30.8859375,14.1428571 33,16.2569196 33,18.8571429 L33,33 C33,35.6002232 30.8859375,37.7142857 28.2857143,37.7142857 L4.71428571,37.7142857 C2.11037946,37.7142857 0,35.6002232 0,33 L0,18.8571429 C0,16.2569196 2.11037946,14.1428571 4.71428571,14.1428571 L28.2857143,14.1428571 Z M18.8571429,23.5714286 C18.8571429,22.2676339 17.8037946,21.2142857 16.5,21.2142857 C15.1962054,21.2142857 14.1428571,22.2676339 14.1428571,23.5714286 L14.1428571,28.2857143 C14.1428571,29.5895089 15.1962054,30.6428571 16.5,30.6428571 C17.8037946,30.6428571 18.8571429,29.5895089 18.8571429,28.2857143 L18.8571429,23.5714286 Z" id="Shape" fill="#4D4D4D"></path>
+                                    <path d="M16.5,4.71428571 C13.2441964,4.71428571 10.6071429,7.3528125 10.6071429,10.6071429 L10.6071429,14.1428571 L5.89285714,14.1428571 L5.89285714,10.6071429 C5.89285714,4.74890625 10.6439732,0 16.5,0 C22.3560268,0 27.1071429,4.74890625 27.1071429,10.6071429 L27.1071429,14.1428571 L22.3928571,14.1428571 L22.3928571,10.6071429 C22.3928571,7.3528125 19.7558036,4.71428571 16.5,4.71428571 Z" id="Path" fill="#FF990F" opacity="0.4"></path>
+                                </g>
+                            </g>
+                            <text id="Node-operators-do-no" font-family="Helvetica" font-size="15" font-weight="normal" line-spacing="23" fill="#575757">
+                                <tspan x="56" y="47">Node operators do not handle funds. Any penalties </tspan>
+                                <tspan x="56" y="70">incurred by node operators are taken from their </tspan>
+                                <tspan x="56" y="93">earnings rather than rETH holders.</tspan>
+                            </text>
+                            <text id="Non-custodial" font-family="Helvetica" font-size="18" font-weight="normal" fill="#121212">
+                                <tspan x="56" y="18">Non-custodial</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-46" transform="translate(34.000000, 357.000000)">
+                            <text id="A-decentralised-netw" font-family="Helvetica" font-size="15" font-weight="normal" line-spacing="23" fill="#575757">
+                                <tspan x="66" y="47">A decentralised network of node operators earn </tspan>
+                                <tspan x="66" y="70">rewards for rETH holders.</tspan>
+                            </text>
+                            <text id="Decentralised" font-family="Helvetica" font-size="18" font-weight="normal" fill="#121212">
+                                <tspan x="66" y="18">Decentralised</tspan>
+                            </text>
+                            <g id="chart-network-duotone-(1)" transform="translate(0.000000, 17.000000)" fill-rule="nonzero">
+                                <path d="M11.25,4.5 C11.25,2.01445312 13.2679687,0 15.75,0 C18.2320312,0 20.25,2.01445312 20.25,4.5 C20.25,6.98554687 18.2320312,9 15.75,9 C13.2679687,9 11.25,6.98554687 11.25,4.5 Z M36,9 C36,6.51445313 38.0179688,4.5 40.5,4.5 C42.9820312,4.5 45,6.51445313 45,9 C45,11.4820313 42.9820312,13.5 40.5,13.5 C38.0179688,13.5 36,11.4820313 36,9 Z M45,31.5 C45,33.9820312 42.9820312,36 40.5,36 C38.0179688,36 36,33.9820312 36,31.5 C36,29.0179687 38.0179688,27 40.5,27 C42.9820312,27 45,29.0179687 45,31.5 Z M0,21.375 C0,18.8929687 2.01445312,16.875 4.5,16.875 C6.98554687,16.875 9,18.8929687 9,21.375 C9,23.8570312 6.98554687,25.875 4.5,25.875 C2.01445312,25.875 0,23.8570312 0,21.375 Z" id="Shape" fill="#4D4D4D"></path>
+                                <path d="M21.4875,11.475 C22.1765625,11.3273438 22.89375,11.1867188 23.625,11.1867188 C26.1632813,11.1867188 28.4765625,12.1851563 30.2554687,13.725 L36.028125,9.42890625 C36.2039063,11.1164063 37.2445313,12.4875 38.6859375,13.1203125 L32.9203125,17.353125 C33.4546875,18.5835938 33.75,19.9476563 33.75,21.3117188 C33.75,22.471875 33.5742188,23.5335938 33.2507813,24.525 L38.3132813,27.5625 C36.95625,28.321875 36.028125,29.7632813 36,31.4226562 L30.9304688,28.3851563 C29.0882812,30.2414063 26.49375,31.5 23.625,31.5 C18.8085938,31.5 14.7726562,28.1320313 13.753125,23.625 L8.3953125,23.625 C8.78203125,22.9640625 9,22.1976563 9,21.375 C9,20.5523437 8.78203125,19.7859375 8.3953125,19.0617188 L13.753125,19.0617188 C14.2734375,16.8046875 15.5953125,14.79375 17.409375,13.3804688 L15.35625,8.9859375 C15.4898437,8.99296875 15.6164062,9 15.75,9 C17.2757812,9 18.6257812,8.240625 19.434375,7.08046875 L21.4875,11.475 Z M23.625,27 C26.7328125,27 29.25,24.4828125 29.25,21.3117188 C29.25,18.2671875 26.7328125,15.6867188 23.625,15.6867188 C20.5171875,15.6867188 17.9367187,18.2671875 17.9367187,21.3117188 C17.9367187,24.4828125 20.5171875,27 23.625,27 Z" id="Shape" fill="#FF990F" opacity="0.4"></path>
+                            </g>
+                        </g>
+                        <g id="chart-network-solid" transform="translate(40.000000, 226.000000)">
+                            <text id="Deposit-as-little-as" font-family="Helvetica" font-size="15" font-weight="normal" line-spacing="23" fill="#575757">
+                                <tspan x="60" y="47">Deposit as little as 0.01 ETH and receive the rETH </tspan>
+                                <tspan x="60" y="70">liquid staking token. rETH accrues staking rewards </tspan>
+                                <tspan x="60" y="93">over time.</tspan>
+                            </text>
+                            <text id="Liquid" font-family="Helvetica" font-size="18" font-weight="normal" fill="#121212">
+                                <tspan x="60" y="18">Liquid</tspan>
+                            </text>
+                            <g id="droplet-solid" transform="translate(0.000000, 13.000000)" fill-rule="nonzero">
+                                <path d="M0,31.1321023 C0,23.8536932 10.171875,8.29559659 15.0042614,1.32244318 C16.2272727,-0.438991477 18.7727273,-0.438991477 19.9957386,1.32244318 C24.828125,8.29559659 35,23.8536932 35,31.1321023 C35,40.8863636 27.1647727,48.7215909 17.5,48.7215909 C7.83522727,48.7215909 0,40.8863636 0,31.1321023 Z" id="Shape" fill="#FF990F" opacity="0.4"></path>
+                                <g id="ethereum-brands" transform="translate(8.750000, 11.550000)" fill="#4D4D4D">
+                                    <path d="M17.4942434,15.0131579 L8.75,20.3552632 L0,15.0131579 L8.75,0 L17.4942434,15.0131579 Z M8.75,22.0707237 L0,16.7286184 L8.75,29.4736842 L17.5,16.7286184 L8.75,22.0707237 L8.75,22.0707237 Z" id="Shape"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-45" transform="translate(20.000000, 606.000000)">
+                            <rect id="Rectangle" fill="#F4F4F4" x="0" y="0" width="460" height="89"></rect>
+                            <text id="4.03%-APR" font-family="Helvetica" font-size="24" font-weight="normal" fill="#251666">
+                                <tspan x="168.623047" y="35">4.03% APR</tspan>
+                            </text>
+                            <text id="Average-Rewards" font-family="Helvetica" font-size="15" font-weight="normal" fill="#575757">
+                                <tspan x="170.52002" y="65">Average Rewards</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-22" transform="translate(75.000000, 41.000000)" fill="#FFFFFF" font-family="Helvetica" font-weight="normal">
+                            <g id="Group-21">
+                                <text id="Liquid-Staking" font-size="36">
+                                    <tspan x="63.4199219" y="35">Liquid Staking</tspan>
+                                </text>
+                                <text id="Stay-liquid-while-ea" font-size="18">
+                                    <tspan x="0.409667969" y="75">Stay liquid while earning staking rewards by </tspan>
+                                    <tspan x="79.9726562" y="97">swapping ETH for rETH</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-20" transform="translate(160.000000, 725.000000)">
+                            <rect id="Rectangle" fill="#FF990F" x="0" y="0" width="180" height="42" rx="21"></rect>
+                            <g id="Stake-Now" fill="#FFFFFF" fill-opacity="1">
+                                <use filter="url(#filter-8)" xlink:href="#text-7"></use>
+                                <use xlink:href="#text-7"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-24" transform="translate(519.000000, 0.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        </g>
+                        <polygon id="Shape" fill="#4D4D4D" fill-rule="nonzero" points="72.9917763 388.647368 60.5 396.278947 48 388.647368 60.5 367.2"></polygon>
+                        <polygon id="Path" fill="#FF990F" opacity="0.4" points="60.5 398.729605 48 391.098026 60.5 409.305263 73 391.098026 60.5 398.729605"></polygon>
+                        <g id="circle-nodes-duotone" transform="translate(41.000000, 239.000000)" fill-rule="nonzero">
+                            <path d="M35,5.83333333 C35,9.05625 32.3895833,11.6666667 29.1666667,11.6666667 C25.94375,11.6666667 23.3333333,9.05625 23.3333333,5.83333333 C23.3333333,2.611875 25.94375,0 29.1666667,0 C32.3895833,0 35,2.611875 35,5.83333333 Z M30.3333333,31.5 C30.3333333,34.7229167 27.7229167,37.3333333 24.5,37.3333333 C21.2770833,37.3333333 18.6666667,34.7229167 18.6666667,31.5 C18.6666667,28.2770833 21.2770833,25.6666667 24.5,25.6666667 C27.7229167,25.6666667 30.3333333,28.2770833 30.3333333,31.5 Z M0,15.1666667 C0,11.94375 2.611875,9.33333333 5.83333333,9.33333333 C9.05625,9.33333333 11.6666667,11.94375 11.6666667,15.1666667 C11.6666667,18.3895833 9.05625,21 5.83333333,21 C2.611875,21 0,18.3895833 0,15.1666667 Z" id="Shape" fill="#4D4D4D"></path>
+                            <path d="M30.5083333,11.5135417 L27.7520833,26.6583333 C26.8260417,26.03125 25.703125,25.6666667 24.5,25.6666667 C24.040625,25.6666667 23.5885417,25.7177083 23.1583333,25.8197917 L25.9145833,10.675 C26.840625,11.3020833 27.9635417,11.6666667 29.1666667,11.6666667 C29.6260417,11.6666667 30.078125,11.615625 30.5083333,11.5135417 L30.5083333,11.5135417 Z M11.396875,16.93125 L22.0135417,26.2208333 C20.5552083,26.90625 19.4322917,28.1822917 18.9364583,29.7354167 L8.31979167,20.4458333 C9.778125,19.6947917 10.9010417,18.484375 11.396875,16.93125 L11.396875,16.93125 Z M11.6666667,15.1666667 C11.6666667,13.540625 11.003125,12.075 9.93125,11.0177083 L23.3333333,5.6525 C23.3333333,5.71302083 23.3333333,5.7728125 23.3333333,5.83333333 C23.3333333,7.459375 23.996875,8.925 25.06875,9.98229167 L11.6010417,15.3489583 C11.6010417,15.290625 11.6666667,15.225 11.6666667,15.1666667 L11.6666667,15.1666667 Z" id="Shape" fill="#FF990F" opacity="0.4"></path>
+                        </g>
+                        <g id="chart-mixed-duotone" transform="translate(41.000000, 484.000000)" fill-rule="nonzero">
+                            <path d="M39.3828125,0.93828125 C40.3125,2.01640625 40.140625,3.58984375 38.9921875,4.45234375 L26.4921875,14.3828125 C25.671875,15.1640625 24.4140625,15.1875 23.5,14.5 L15.046875,8.1640625 L4.06171875,16.8828125 C2.98359375,17.8125 1.41015625,17.640625 0.547890625,16.4921875 C-0.3146875,15.484375 -0.13984375,13.9140625 0.93828125,13.046875 L13.4375,3.04765625 C14.328125,2.3359375 15.5859375,2.31640625 16.5,3 L24.953125,9.3359375 L35.9375,0.54765625 C37.015625,-0.31484375 38.5859375,-0.13984375 39.3828125,0.93828125 L39.3828125,0.93828125 Z" id="Path" fill="#4D4D4D"></path>
+                            <path d="M17.5,17.5 L17.5,32.5 C17.5,33.8828125 16.3828125,35 15,35 C13.6171875,35 12.5,33.8828125 12.5,32.5 L12.5,17.5 C12.5,16.1171875 13.6171875,15 15,15 C16.3828125,15 17.5,16.1171875 17.5,17.5 Z M7.5,25 L7.5,32.5 C7.5,33.8828125 6.38046875,35 5,35 C3.61953125,35 2.5,33.8828125 2.5,32.5 L2.5,25 C2.5,23.6171875 3.61953125,22.5 5,22.5 C6.38046875,22.5 7.5,23.6171875 7.5,25 Z M22.5,22.5 C22.5,21.1171875 23.6171875,20 25,20 C26.3828125,20 27.5,21.1171875 27.5,22.5 L27.5,32.5 C27.5,33.8828125 26.3828125,35 25,35 C23.6171875,35 22.5,33.8828125 22.5,32.5 L22.5,22.5 Z M37.5,17.5 L37.5,32.5 C37.5,33.8828125 36.3828125,35 35,35 C33.6171875,35 32.5,33.8828125 32.5,32.5 L32.5,17.5 C32.5,16.1171875 33.6171875,15 35,15 C36.3828125,15 37.5,16.1171875 37.5,17.5 Z" id="Shape" fill="#FF990F" opacity="0.4"></path>
+                        </g>
+                        <g id="Group-47" transform="translate(100.000000, 465.000000)" font-family="Helvetica" font-weight="normal">
+                            <text id="Earn-commission-from" font-size="15" line-spacing="23" fill="#575757">
+                                <tspan x="0" y="47">Earn commission from staking pool ETH and RPL </tspan>
+                                <tspan x="0" y="70">rewards from providing RPL collateral.</tspan>
+                            </text>
+                            <text id="Higher-ROI" font-size="18" fill="#121212">
+                                <tspan x="0" y="18">Higher ROI</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-46" transform="translate(100.000000, 357.000000)" font-family="Helvetica" font-weight="normal">
+                            <text id="Stake-with-less-than" font-size="15" line-spacing="23" fill="#575757">
+                                <tspan x="0" y="47">Stake with less than 32 ETH.</tspan>
+                            </text>
+                            <text id="Only-16-ETH" font-size="18" fill="#121212">
+                                <tspan x="0" y="18">Only 16 ETH</tspan>
+                            </text>
+                        </g>
+                        <g id="chart-network-solid" transform="translate(100.000000, 226.000000)" font-family="Helvetica" font-weight="normal">
+                            <text id="Anyone-can-join-the" font-size="15" line-spacing="23" fill="#575757">
+                                <tspan x="0" y="47">Anyone can join the Rocket Pool decentralised node </tspan>
+                                <tspan x="0" y="70">operator network.</tspan>
+                            </text>
+                            <text id="Permissionless" font-size="18" fill="#121212">
+                                <tspan x="0" y="18">Permissionless</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-3">
+                            <mask id="mask-12" fill="white">
+                                <use xlink:href="#path-11"></use>
+                            </mask>
+                            <use id="Mask" fill="#6240CA" xlink:href="#path-11"></use>
+                            <g id="user-astronaut-solid-(1)" opacity="0.15" style="mix-blend-mode: overlay;" mask="url(#mask-12)" fill="#FFFFFF" fill-rule="nonzero">
+                                <g transform="translate(-98.000000, -52.000000)" id="Shape">
+                                    <path d="M163,416 C154.84375,416 148,422.729688 148,430.75 L148,475 L178,475 L178,430.75 C178,422.729688 171.25,416 163,416 Z M253,415 C244.796875,415 238,421.796875 238,430 C238,438.203125 244.796875,445 253,445 C261.203125,445 268,438.203125 268,430 C268,421.796875 261.25,415 253,415 Z M152.35829,159.624093 L159.970091,182.463917 C161.09725,185.845361 165.884196,185.845361 167.011355,182.463917 L174.623156,159.624093 L197.463197,152.01422 C200.845601,150.883362 200.845601,146.100172 197.463197,144.969313 L174.623156,137.35944 L167.015993,114.53817 C165.888835,111.153943 161.101888,111.153943 159.97473,114.53817 L152.35829,137.35944 L129.536803,144.96653 C126.154399,146.097389 126.154399,150.880578 129.536803,152.011437 L152.35829,159.624093 Z M312.092857,293 C282.285714,314.477111 246.164286,326.881994 208,326.881994 C169.835714,326.881994 133.686429,314.449339 103.907143,293.009257 C43.225,315.958291 0,374.37233 0,442.876907 C0,460.651068 14.4114286,475 32.1842857,475 L118.857143,475 L118.857143,415.752798 C118.857143,399.320956 132.089286,386.129196 148.571429,386.129196 L267.428571,386.129196 C283.910714,386.129196 297.142857,399.320956 297.142857,415.752798 L297.142857,475 L383.815714,475 C401.607143,475 416,460.651068 416,442.876907 C416,374.37233 372.821429,315.958291 312.092857,293 Z M59.8636364,207.9 L72.4048295,207.9 C95.4434659,260.339063 147.559091,297 208.5,297 C269.440909,297 321.649432,260.339063 344.59517,207.9 L357.136364,207.9 C365.264915,207.9 372,201.171094 372,193.05 L372,103.95 C372,95.8753125 365.311364,89.1 357.136364,89.1 L344.59517,89.1 C321.649432,36.6609375 269.440909,0 208.5,0 C147.559091,0 95.4434659,36.6609375 72.4048295,89.1 L59.8636364,89.1 C51.7350852,89.1 45,95.8753125 45,103.95 L45,193.05 C45,201.2175 51.7350852,207.9 59.8636364,207.9 Z M97,126 C97,105.5575 116.977083,89 141.6,89 L275.4,89 C300.022917,89 320,105.539 320,126 L320,148.2 C320,197.225 280.045833,237 230.8,237 L186.2,237 C136.954167,237 97,197.225 97,148.2 L97,126 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-22" transform="translate(74.000000, 41.000000)" fill="#FFFFFF" font-family="Helvetica" font-weight="normal">
+                            <g id="Group-21">
+                                <text id="Node-Operation" font-size="36">
+                                    <tspan x="49.4189453" y="35">Node Operation</tspan>
+                                </text>
+                                <text id="Earn-extra-staking-r" font-size="18">
+                                    <tspan x="14.9160156" y="75">Earn extra staking rewards by launching </tspan>
+                                    <tspan x="106.462891" y="97">shared validators</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-44" transform="translate(20.000000, 606.000000)">
+                            <rect id="Rectangle" fill="#F4F4F4" x="0" y="0" width="225" height="89"></rect>
+                            <text id="Up-to-6.36%-APR" font-family="Helvetica" font-size="24" font-weight="normal" fill="#251666">
+                                <tspan x="19.1074219" y="38">Up to 6.36% APR</tspan>
+                            </text>
+                            <text id="ETH-Rewards" font-family="Helvetica" font-size="15" font-weight="normal" fill="#575757">
+                                <tspan x="65.8227539" y="68">ETH Rewards</tspan>
+                            </text>
+                            <rect id="Rectangle" fill="#F4F4F4" x="235" y="0" width="225" height="89"></rect>
+                            <text id="Variable" font-family="Helvetica" font-size="15" font-weight="normal" fill="#575757">
+                                <tspan x="320.535889" y="68">Variable</tspan>
+                            </text>
+                            <text id="RPL-Rewards" font-family="Helvetica" font-size="24" font-weight="normal" fill="#251666">
+                                <tspan x="273.912109" y="38">RPL Rewards</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-20" transform="translate(160.000000, 728.000000)">
+                            <rect id="Rectangle" fill="#6240CA" x="0" y="0" width="180" height="42" rx="21"></rect>
+                            <g id="Get-Started" fill="#FFFFFF" fill-opacity="1">
+                                <use filter="url(#filter-14)" xlink:href="#text-13"></use>
+                                <use xlink:href="#text-13"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

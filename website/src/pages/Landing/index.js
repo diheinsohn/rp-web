@@ -4,15 +4,25 @@ import {
   Box,
   Button,
   Typography,
+  Stack,
   useMediaQuery,
 } from "@mui/material";
 //Menu
 import TopMenu from '../../components/TopMenu';
 import Footer from '../../components/Footer';
 //Assets
-import skyrEth from '../../assets/images/skyrETHocket.svg';
+import skyrEth from '../../assets/images/skyrETHocket2.svg';
 import whitecloud from '../../assets/images/whitecloud.svg';
 import cloud from '../../assets/images/cloud.svg';
+import GreyOval from '../../assets/images/Oval + Oval Copy Mask.svg';
+import LiqNO from '../../assets/images/Group 33.svg';
+import How from '../../assets/images/Group 53.svg';
+import AuditBackground from '../../assets/images/AuditsBack.svg';
+import Audits from '../../assets/images/Audits.svg';
+import reth from '../../assets/images/Screen Shot 2022-06-12 at 22.44.44.png';
+import CloudGroup from '../../assets/images/Group 41.svg';
+import Bubble1 from '../../assets/images/Group 10.svg';
+import Coverage from '../../assets/images/coverage.svg';
 //Hook
 import useWindowDimensions from '../useWindowDimensions';
 
@@ -23,11 +33,9 @@ const styles = {
     position: 'relative',
   },
   back: {
-    backgroundColor: 'rgba(25,12,77,1)',
     width: "100%",
-    opacity: 1,
     position: "absolute",
-    top: 100,
+    top: 110,
     left: 0,
     //"&:after": {
     //  content: '""',
@@ -43,7 +51,7 @@ const styles = {
 }
 
 const Landing = (props) => {
-  const { height, width } = useWindowDimensions();
+  //const { height, width } = useWindowDimensions();
   let isMobile = useMediaQuery("(max-width:750px)");
 
   return(
@@ -52,22 +60,17 @@ const Landing = (props) => {
       <Box sx={styles.back}>
         <Box
           sx={{
-            backgroundColor: "rgba(25,12,77,1)",
+            backgroundColor: "rgb(25,12,77,1)",
             color: "white",
-            mt: "15vh",
-            height: height,
             width: "100%",
             ...(isMobile && {
               width: "10rem",
-              mt: "65vh",
-              m1: "2rem",
             }),
           }}
         >
           <Box 
-            sx={{ 
-              marginTop: "15%",
-              marginLeft: "15%",
+            sx={{
+              backgroundColor: "linear-gradient(rgb(25,12,77,1) rgb(23,0,130,1))"
             }}
           >
 
@@ -96,22 +99,101 @@ const Landing = (props) => {
             </Button> 
           </Box>
           <Box sx={{
-              backgroundImage: `url(${cloud}),-webkit-image-set(url(${whitecloud}) 1x)`,
-              "&:after": {
-                content: '""',
-                position: "absolute",
-                left: 0,
-                width: "100%",
-                height: "25%",
-                backgroundImage: "linear-gradient(rgb(255,255,255,0), rgb(255,255,255,1))"
-              }
+              backgroundImage: `url(${cloud})`,
             }}
           >
-            <img
-              src= {skyrEth}
-            />
-          </Box>  
+          </Box>
+          <Box
+            sx={{
+              display: "flex",
+              height: "380px",
+              flexDirection: "column",
+              backgroundColor: "white",
+              alignItems: "center",
+              justifyContent: "center",
+            }}
+          >
+            <Typography 
+              sx={{
+                margin: "1%",
+              }}
+              color="black"
+              variant="h5"
+            > 
+              Live Statistics 
+            </Typography>
+            <Typography sx={{marginBottom:"5%"}} color="text.disabled" variant="subtitle">
+              Protocol growth since mainnet launch on November 21st, 2021
+            </Typography>
+            <Stack direction="row" spacing={"5rem"} justifyContent="space-between">
+              <Stack direction="column" alignItems="center">
+                <img src={Bubble1} />
+                <Typography color= "black" variant="caption" diplay="block" gutterBottom>
+                  Total Value Locked
+                </Typography>
+              </Stack>
+              <Stack direction="column" alignItems="center">
+                <img src={Bubble1} />
+                <Typography color= "black" variant="caption" diplay="block" gutterBottom>
+                  ETH Staked
+                </Typography>
+              </Stack>
+              <Stack direction="column" alignItems="center">
+                <img src={Bubble1} />
+                <Typography color= "black" variant="caption" diplay="block" gutterBottom>
+                  Validators
+                </Typography>
+              </Stack>
+              <Stack direction="column" alignItems="center">
+                <img src={Bubble1} />
+                <Typography color= "black" variant="caption" diplay="block" gutterBottom>
+                  Node Operators
+                </Typography>
+              </Stack>
+            </Stack>  
+          </Box>
         </Box>  
+        <Box
+          sx={{
+            height: "1092px",
+            backgroundImage: "white",
+          }}
+        >
+          <img style={{objectFit: "contain", width: "100%"}} src={LiqNO} />   
+        </Box>
+        <Box
+          sx={{
+            height: "680px",
+            backgroundColor: "white",
+          }}
+        >
+          <img style={{objectFit: "contain", position: "relative", top: 0,width: "100%"}} src={How} />   
+        </Box>
+        <Box
+          sx={{
+            backgroundColor: "grey",
+            width: "100%",
+          }}
+        >
+          <img style={{objectFit: "contain", position: "relative", top: 0,width: "100%"}} src={Coverage} />   
+        </Box>
+
+        <Box
+          sx={{
+            backgroundImage: `url(${AuditBackground})`,
+            width: "100%",
+          }}
+        >
+          <img style={{objectFit: "contain", width: "100%"}} src={Audits} />
+          <Box
+            sx={{
+              direction: "flex",
+              flexDirection: "column",
+            }}
+          >
+
+          </Box>
+        </Box>
         <Footer />
       </Box>
     </div>

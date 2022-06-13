@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1442px" height="950px" viewBox="0 0 1442 950" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Oval + Oval Copy Mask</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1442" height="950"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(0.000000, -1146.000000)">
+            <g id="Oval-+-Oval-Copy-Mask" transform="translate(0.000000, 1146.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#F2F2F2" xlink:href="#path-1"></use>
+                <circle id="Oval" fill-opacity="0.2" fill="#CDCDCD" mask="url(#mask-2)" cx="17" cy="-7" r="176"></circle>
+                <circle id="Oval" fill-opacity="0.2" fill="#CDCDCD" mask="url(#mask-2)" cx="720.5" cy="522.5" r="623.5"></circle>
+                <circle id="Oval" fill-opacity="0.2" fill="#C9C9C9" mask="url(#mask-2)" cx="1176" cy="905" r="241"></circle>
+                <circle id="Oval-Copy" fill-opacity="0.2" fill="#D7D7D7" mask="url(#mask-2)" cx="1423" cy="-25" r="160"></circle>
+                <circle id="Oval-Copy" fill-opacity="0.5" fill="#D5D5D5" mask="url(#mask-2)" cx="1354" cy="117" r="17"></circle>
+                <circle id="Oval-Copy" fill-opacity="0.5" fill="#E1E1E1" mask="url(#mask-2)" cx="148" cy="768" r="17"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -20,6 +20,14 @@ const mdTheme = createTheme({
       main: '#FF990F',
     },
   },
+  typography: {
+    allVariants: {
+      fontFamily: [
+        'Poppins',
+        'sans-serif',
+      ].join(','),
+    },
+  },
   appContent: {
     flex: 1,
     display: 'flex',
@@ -44,7 +52,7 @@ const App = props => {
   return (
     <ThemeProvider theme={mdTheme}>
       <div className={classes.root}>
-        <Layout />
+        <Layout className={classes.appContent}/>
       </div>
     </ThemeProvider>
   );

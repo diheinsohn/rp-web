@@ -53,7 +53,7 @@ const styles = {
 const Landing = (props) => {
   //const { height, width } = useWindowDimensions();
   let isMobile = useMediaQuery("(max-width:750px)");
-
+  
   return(
     <div className={styles.appContent}>
       <TopMenu />
@@ -122,7 +122,7 @@ const Landing = (props) => {
             > 
               Live Statistics 
             </Typography>
-            <Typography sx={{marginBottom:"5%"}} color="text.disabled" variant="subtitle">
+            <Typography sx={{marginBottom:"5%", color:'grey.600'}} variant="subtitle1">
               Protocol growth since mainnet launch on November 21st, 2021
             </Typography>
             <Stack direction="row" spacing={"5rem"} justifyContent="space-between">

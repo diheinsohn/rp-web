@@ -10,9 +10,14 @@ import {
 } from "@mui/material";
 import styled from "styled-components";
 import NavBar from "../../components/NavBar";
+import Footer from "../../components/Footer";
 import clouds from "../../assets/images/whitecloud.svg";
 import rockets from "../../assets/images/rockets.svg";
 
+const LandingContainer = styled(Container)`
+  height: 1500px;
+  background: linear-gradient(rgb(255, 255, 255));
+`;
 const BannerContainer = styled(Container)`
   height: 700px;
   background: linear-gradient(rgb(25, 12, 77) 0%, rgb(23, 0, 130) 100%);
@@ -28,7 +33,7 @@ const BannerContent = styled(Box)`
   margin-top: 130px;
 `;
 const BannerTypography = styled(Typography)`
-  color: white;
+  color: white;;
   && {
     font-weight: 500;
   }
@@ -58,28 +63,30 @@ const Landing = (props) => {
   return (
     <>
       <CssBaseline />
-      <BannerContainer maxWidth={false}>
-        <Container>
-          <NavBar />
-          <Grid container spacing={2}>
-            <Grid item xs={6}>
-              <BannerContent>
-                <BannerTypography variant="h4" gutterBottom>
-                  The first truly decentralised Ethereum staking pool.
-                </BannerTypography>
-                <SecondaryButton variant="contained" color="secondary" href="#">
-                  Stake Now
-                </SecondaryButton>
-              </BannerContent>
+      <LandingContainer maxWidth={true} disableGutters>
+        <BannerContainer maxWidth={false}>
+          <Container>
+            <NavBar />
+            <Grid container spacing={2}>
+              <Grid item xs={6}>
+                <BannerContent>
+                  <BannerTypography variant="h4" gutterBottom>
+                    The first truly decentralised Ethereum staking pool.
+                  </BannerTypography>
+                  <SecondaryButton variant="contained" color="secondary" href="#">
+                    Stake Now
+                  </SecondaryButton>
+                </BannerContent>
+              </Grid>
+              <Grid item xs={6}>
+                <img src={rockets} />
+              </Grid>
             </Grid>
-            <Grid item xs={6}>
-              <img src={rockets} />
-            </Grid>
-          </Grid>
-        </Container>
-        <Clouds />
-      </BannerContainer>
-
+          </Container>
+          <Clouds />
+        </BannerContainer>
+        <Footer />
+      </LandingContainer>
       {/* <Container
         sx={{
           display: "flex",

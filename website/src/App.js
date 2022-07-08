@@ -6,12 +6,15 @@ import { withStyles } from "@mui/styles";
 const styles = {
   root: {
     display: "flex",
+    flexDirection: "column",
     minHeight: "100vh",
   },
 };
 
 const mdTheme = createTheme({
   spacing: [0, 2, 3, 5, 8],
+  paddingLeft: 0,
+  paddingRight: 0,
   palette: {
     primary: {
       main: "#190C4D",

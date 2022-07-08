@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="69px" viewBox="0 0 75 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Bitmap</title>
+    <defs>
+        <rect x="109" y="27" width="75" height="75" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-318.000000, -3549.000000)">
+            <g id="Group-35" transform="translate(0.000000, 3303.000000)">
+                <g id="Bitmap" transform="translate(209.000000, 216.000000)">
+                    <image x="109" y="27" width="75" height="75" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAPKADAAQAAAABAAAAPAAAAACL3+lcAAADHklEQVRoBe1ZzW3bMBSOg94joKfctEG1QbVBPYI3qEbwBu0GdTbwAAXiTFBngqi3HApERYse636fQ6o2aEnvyZIsEXzAMyXy/Xwf+URa9tVVkDADXs3AzCs2ILPb7W7QfK3g9cdHwm9B9kcF4V/XFQPedgfC3i6tIRZWOKywZzMQStqzBXXohBV2psSzjrDCni2oQ+eN06PowJtJAvN30Ni48T4y10M2j7PZLJMkVBMGyQ8InELn0Bg6BhG/9YkJgygJfoLGY2DYFkMjYRAlwS/QFDoF+QuQzxVAf9cSBtkFHEl2MoJn+QVgb6sAVx5LUyRbRfKw/yRhX8mSuEMYZLk5TaqMD1ew6fqIMMhGPpPlZBwRNmRJ2lspd2lTyiznc+URAYqGIJxUfkOTyHcY5Q2G24ZxdxiE76FaKeDwGZq6Eat7aK9ItKyOpB/Zr7ABnCrd72Cf4dxrWk1l2H7NbUkvlGnuQFTro0zRj7ndtN4rwj9MlSw5XqOcY7RUqWRSwzHacYVTBTCWsn5HVCTo25SEY0WSlcJ2lKb2GZaCy6WGY7VTlTTK2QvCY10Mi6vTc54rLN6EzI5ugZzTJgpnMT5JTBLWzGAqCSqw0RAWhJObaAnzF8suRPriwFx5FwnLGCxTqEbmpXOLCyTKFMnyFimaXQAgV4B4gW3UHNW1oB+U/lJZuVHO62FJU9avjeiTZO+BWEXa2POnI43fRoRIawQw2rKGy+6bIdGYDnaJsUcjlgKWmslpxHFkgOArMZT/hizPj9CTwNhvxjVlDJe9LI8AdnQzs3GQIsb1k71v0W7gQ6UkRmPetJCf8Inxza5o4St3Aenl6+Re/HMpR62zLFfYuoHqBteaHwSsa1ct//pkhfQipwjzecyhN71krA/KUk76fEmxx1IJwzw3KTqYfGhZ9Em2lgxKm0cJj4YhhHnSWkBDDALEEKRJtrdnVj1PABNB19A+ZIug4yF7ODsANodqvnPXTVCBwcVh/FFeA2QEzaBbaBvhhPGs50lwEXGOJSkKgI5hOzdKt1Nn9wMHIGvqxXbgPYTwEWbAyxn4ByqPAJyvzUcNAAAAAElFTkSuQmCC"></image>
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

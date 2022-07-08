@@ -16,7 +16,8 @@ const FooterContent = styled(Box)`
   flex-direction: column;
   align-item: flex-start;
   justify-content: center;
-  margin-top: 100px;
+  margin-top: -100px;
+  margin-bottom: 100px;
 `;
 const Nav = styled.nav`
   display: flex;

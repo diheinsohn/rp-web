@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="1037px" viewBox="0 0 1440 1037" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 51</title>
+    <defs>
+        <linearGradient x1="50%" y1="70.8578216%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F2F2F2" offset="0%"></stop>
+            <stop stop-color="#DCDCDC" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="400" height="192" rx="8"></rect>
+        <filter x="-3.8%" y="-7.8%" width="107.5%" height="115.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M8,0 L392,0 C396.418278,-8.11624501e-16 400,3.581722 400,8 L400,60 L400,60 L0,60 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="path-4"></path>
+        <filter x="-3.8%" y="-25.0%" width="107.5%" height="150.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="400" height="192" rx="8"></rect>
+        <filter x="-3.8%" y="-7.8%" width="107.5%" height="115.6%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M8,0 L392,0 C396.418278,-8.11624501e-16 400,3.581722 400,8 L400,60 L400,60 L0,60 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="path-9"></path>
+        <filter x="-3.8%" y="-25.0%" width="107.5%" height="150.0%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-12" x="0" y="0" width="400" height="192" rx="8"></rect>
+        <filter x="-3.8%" y="-7.8%" width="107.5%" height="115.6%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M8,0 L392,0 C396.418278,-8.11624501e-16 400,3.581722 400,8 L400,60 L400,60 L0,60 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="path-14"></path>
+        <filter x="-3.8%" y="-25.0%" width="107.5%" height="150.0%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-17" x="0" y="0" width="400" height="192" rx="8"></rect>
+        <filter x="-3.8%" y="-7.8%" width="107.5%" height="115.6%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M8,0 L392,0 C396.418278,-8.11624501e-16 400,3.581722 400,8 L400,60 L400,60 L0,60 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="path-19"></path>
+        <filter x="-3.8%" y="-25.0%" width="107.5%" height="150.0%" filterUnits="objectBoundingBox" id="filter-21">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-22" x="0" y="0" width="400" height="192" rx="8"></rect>
+        <filter x="-3.8%" y="-7.8%" width="107.5%" height="115.6%" filterUnits="objectBoundingBox" id="filter-23">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M8,0 L392,0 C396.418278,-8.11624501e-16 400,3.581722 400,8 L400,60 L400,60 L0,60 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="path-24"></path>
+        <filter x="-3.8%" y="-25.0%" width="107.5%" height="150.0%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-27" x="0" y="0" width="400" height="192" rx="8"></rect>
+        <filter x="-3.8%" y="-7.8%" width="107.5%" height="115.6%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M8,0 L392,0 C396.418278,-8.11624501e-16 400,3.581722 400,8 L400,60 L400,60 L0,60 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="path-29"></path>
+        <filter x="-3.8%" y="-25.0%" width="107.5%" height="150.0%" filterUnits="objectBoundingBox" id="filter-31">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.869565217   0 0 0 0 0.869565217   0 0 0 0 0.869565217  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(0.000000, -4044.000000)">
+            <g id="Group-51" transform="translate(0.000000, 4044.000000)">
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="1440" height="1037"></rect>
+                <text id="Our-Community" font-family="Helvetica" font-size="36" font-weight="normal" fill="#121212">
+                    <tspan x="593.973633" y="95">Our Community</tspan>
+                </text>
+                <text id="Our-fantastic-commun" font-family="Helvetica" font-size="18" font-weight="normal" fill="#575757">
+                    <tspan x="436.855957" y="149">Our fantastic community would love to answer any questions you have.</tspan>
+                </text>
+                <g id="Group-57" transform="translate(310.000000, 216.000000)">
+                    <g id="Group-55">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        </g>
+                        <text id="Rocket-Pool-has-a-wa" font-family="Helvetica" font-size="15" font-weight="normal" line-spacing="23" fill="#575757">
+                            <tspan x="20" y="95">Rocket Pool has a warm and welcoming community! </tspan>
+                            <tspan x="20" y="118">Want to ask questions? Find out more? Or just have </tspan>
+                            <tspan x="20" y="141">a chat? Come join us on Discord.</tspan>
+                        </text>
+                        <g id="Oval">
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <g id="Mask">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-4"></use>
+                                <use fill="#6240CA" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            </g>
+                            <path d="M363.001702,-12.0880018 C362.976132,-12.1374831 362.933755,-12.1762565 362.882164,-12.1973771 C356.917285,-14.9304093 350.622627,-16.8792752 344.155717,-17.9952035 C344.035213,-18.0175762 343.913924,-17.9602581 343.854839,-17.8530157 C342.997703,-16.2994354 342.219614,-14.7036526 341.523538,-13.0717542 C334.552563,-14.128504 327.4618,-14.128504 320.490824,-13.0717542 C319.790141,-14.7077964 318.999582,-16.3039771 318.122755,-17.8530157 C318.061209,-17.9576926 317.941791,-18.0140974 317.82172,-17.9952035 C311.354127,-16.881618 305.05906,-14.9326055 299.09496,-12.1972208 C299.043905,-12.175606 299.000826,-12.1387 298.971667,-12.0915956 C287.044639,5.69563464 283.777375,23.0455201 285.380184,40.1805612 C285.389294,40.2654105 285.432486,40.342938 285.499878,40.3954055 C292.444876,45.5306572 300.212941,49.4504342 308.472578,51.9874646 C308.591704,52.023151 308.720485,51.9810098 308.795361,51.8818393 C310.569352,49.4713336 312.141242,46.9188213 313.495045,44.2502585 C313.532671,44.1761888 313.536767,44.0895817 313.506297,44.0123008 C313.475826,43.9350199 313.413703,43.8744503 313.335609,43.8458825 C310.856854,42.8987453 308.45713,41.7569938 306.158958,40.4313431 C306.074177,40.3815715 306.019817,40.2928743 306.014007,40.1948351 C306.008197,40.0967958 306.051702,40.0023147 306.130012,39.9429044 C306.612231,39.5821223 307.094764,39.2068089 307.555235,38.8277455 C307.638679,38.7591124 307.753856,38.7436149 307.852515,38.7877454 C322.908806,45.6497931 339.209292,45.6497931 354.087372,38.7877454 C354.18633,38.7407688 354.303537,38.7549434 354.388407,38.8241517 C354.849034,39.2032151 355.33141,39.5821223 355.817228,39.9429044 C355.895957,40.0017053 355.940149,40.0958315 355.935061,40.1938779 C355.929973,40.2919242 355.876274,40.3809843 355.791881,40.4313431 C353.498934,41.7681453 351.097035,42.9091816 348.611788,43.8422888 C348.533731,43.8719521 348.472035,43.9334325 348.442165,44.0113188 C348.412294,44.0892051 348.417081,44.1761134 348.455324,44.2502585 C349.831793,46.9039809 351.401368,49.4532776 353.151409,51.8776206 C353.224252,51.9796084 353.35424,52.0236549 353.474192,51.9869958 C361.748631,49.4585667 369.530272,45.5384253 376.483974,40.3954055 C376.55247,40.3454842 376.59609,40.2684979 376.603669,40.184155 C378.522532,20.3742636 373.391167,3.16656606 363.001702,-12.0880018 Z M315.499543,30 C310.839624,30 307,25.5119851 307,20.0001688 C307,14.4883525 310.765154,10 315.499543,10 C320.270925,10 324.073394,14.5273464 323.998925,19.9998312 C323.998925,25.5119851 320.23361,30 315.499543,30 Z M346.499382,30 C341.839624,30 338,25.5119851 338,20.0001688 C338,14.4883525 341.765154,10 346.499382,10 C351.271086,10 355.073394,14.5273464 354.998925,19.9998312 C354.998925,25.5119851 351.271086,30 346.499382,30 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.50218564" style="mix-blend-mode: overlay;" mask="url(#mask-5)"></path>
+                        </g>
+                        <text id="Discord" font-family="Helvetica" font-size="18" font-weight="normal" line-spacing="23" fill="#FFFFFF">
+                            <tspan x="20" y="37">Discord</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-55" transform="translate(420.000000, 0.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        </g>
+                        <text id="Our-articles-explain" font-family="Helvetica" font-size="15" font-weight="normal" line-spacing="23" fill="#575757">
+                            <tspan x="20" y="95">Our articles explain every aspect of Rocket Pool </tspan>
+                            <tspan x="20" y="118">from, how to stake ETH? become a node operator? </tspan>
+                            <tspan x="20" y="141">or how our tokenomics work? Take a jump down the </tspan>
+                            <tspan x="20" y="164">rabbit hole.</tspan>
+                        </text>
+                        <g id="Oval">
+                            <mask id="mask-10" fill="white">
+                                <use xlink:href="#path-9"></use>
+                            </mask>
+                            <g id="Mask">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-9"></use>
+                                <use fill="#6240CA" fill-rule="evenodd" xlink:href="#path-9"></use>
+                            </g>
+                            <path d="M289,-15 C270.222393,-15 255,0.223090383 255,19 C255,37.7769096 270.223524,53 289,53 C307.776476,53 323,37.7780321 323,19 C323,0.221967888 307.77836,-15 289,-15 Z M343.99887,-13 C334.609888,-13 327,1.55379243 327,19.4995251 C327,37.4452578 334.611018,52 344,52 C353.388982,52 361,37.4462076 361,19.4995251 L360.998681,19.4995251 C360.998681,1.54866377 353.388793,-13 343.999247,-13 L343.99887,-13 Z M369.999149,-9 C366.686054,-9 364,3.98466798 364,20 C364,36.015332 366.684352,49 369.999149,49 C373.313946,49 376,36.0119264 376,19.9994324 C376,3.98353276 373.312812,-9 369.999527,-9 L369.999149,-9 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.50218564" style="mix-blend-mode: overlay;" mask="url(#mask-10)"></path>
+                        </g>
+                        <text id="Medium" font-family="Helvetica" font-size="18" font-weight="normal" line-spacing="23" fill="#FFFFFF">
+                            <tspan x="20" y="37">Medium</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-55" transform="translate(0.000000, 212.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                        </g>
+                        <text id="Find-out-what-is-hap" font-family="Helvetica" font-size="15" font-weight="normal" line-spacing="23" fill="#575757">
+                            <tspan x="20" y="95">Find out what is happening in the Rocket Pool and </tspan>
+                            <tspan x="20" y="118">Ethereum staking ecosystem. Like, Reweet, you </tspan>
+                            <tspan x="20" y="141">know what to do.</tspan>
+                        </text>
+                        <g id="Oval">
+                            <mask id="mask-15" fill="white">
+                                <use xlink:href="#path-14"></use>
+                            </mask>
+                            <g id="Mask">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-14"></use>
+                                <use fill="#6240CA" fill-rule="evenodd" xlink:href="#path-14"></use>
+                            </g>
+                            <path d="M361.776843,22.2707741 C361.827624,22.9848205 361.827624,23.6990238 361.827624,24.4130702 C361.827624,46.1924262 345.330216,71.2873563 315.177755,71.2873563 C305.888343,71.2873563 297.258935,68.5839341 290,63.891607 C291.319849,64.0445272 292.58876,64.095553 293.95939,64.095553 C301.624264,64.095553 308.680229,61.4943392 314.314782,57.0568268 C307.106629,56.9037496 301.065981,52.1602398 298.984723,45.6314571 C300.000039,45.7843773 301.015199,45.8864288 302.081297,45.8864288 C303.553334,45.8864288 305.025527,45.6823258 306.396002,45.3254596 C298.883316,43.7951584 293.248606,37.1644812 293.248606,29.15658 L293.248606,28.952634 C295.431271,30.1767808 297.969562,30.9418529 300.659729,31.0437474 C296.243462,28.0853535 293.350169,23.0358462 293.350169,17.3231613 C293.350169,14.2628729 294.162204,11.4575562 295.583616,9.00926266 C303.654741,19.0063827 315.786819,25.5350085 329.390779,26.2492118 C329.137028,25.0250651 328.984684,23.7500496 328.984684,22.4748771 C328.984684,13.3957493 336.2944,6 345.380685,6 C350.101485,6 354.365408,7.98921886 357.360419,11.2025845 C361.065903,10.4885381 364.619198,9.11131415 367.766554,7.22414676 C366.548112,11.0496643 363.959351,14.2630299 360.558401,16.3031175 C363.857945,15.9462513 367.055926,15.027945 370,13.7529295 C367.766866,17.0171639 364.974824,19.924375 361.776843,22.2707741 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero" opacity="0.50218564" style="mix-blend-mode: overlay;" mask="url(#mask-15)"></path>
+                        </g>
+                        <text id="Twitter" font-family="Helvetica" font-size="18" font-weight="normal" line-spacing="23" fill="#FFFFFF">
+                            <tspan x="20" y="37">Twitter</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-55" transform="translate(420.000000, 212.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                        </g>
+                        <text id="The-Rocket-Pool-prot" font-family="Helvetica" font-size="15" font-weight="normal" line-spacing="23" fill="#575757">
+                            <tspan x="20" y="95">The Rocket Pool protocol is Open-Source, check it </tspan>
+                            <tspan x="20" y="118">out! Deep-dive into how Rocket Pool works! Run our </tspan>
+                            <tspan x="20" y="141">tests and check things for yourself.</tspan>
+                        </text>
+                        <g id="Oval">
+                            <mask id="mask-20" fill="white">
+                                <use xlink:href="#path-19"></use>
+                            </mask>
+                            <g id="Mask">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-21)" xlink:href="#path-19"></use>
+                                <use fill="#6240CA" fill-rule="evenodd" xlink:href="#path-19"></use>
+                            </g>
+                            <path d="M305.117647,62.2352941 C305.117647,62.5588434 304.616558,62.8176829 303.984749,62.8176829 C303.265795,62.8662153 302.764706,62.6073758 302.764706,62.2352941 C302.764706,61.9117448 303.265795,61.6529054 303.897603,61.6529054 C304.551198,61.604373 305.117647,61.8632124 305.117647,62.2352941 Z M298.089478,62.026827 C297.936272,62.3279066 298.374004,62.6741481 299.030601,62.7644719 C299.599652,62.9150117 300.25625,62.7644719 300.387569,62.4633924 C300.518889,62.1623128 300.103044,61.8160714 299.446446,61.6805856 C298.877395,61.5752077 298.242684,61.7257475 298.089478,62.026827 Z M307.325751,61.6536071 C306.679552,61.7600827 306.233898,62.049088 306.300746,62.3989365 C306.367594,62.7031527 306.946945,62.9008931 307.615426,62.7944175 C308.261624,62.6879419 308.707278,62.3989365 308.64043,62.0947204 C308.573582,61.8057151 307.971949,61.6079747 307.325751,61.6536071 Z M320.354839,-16 C292.391129,-16 271,5.26153267 271,33.2669893 C271,55.6592397 285.072581,74.820868 305.173387,81.5647919 C307.754032,82.0291938 308.66129,80.4340741 308.66129,79.1216338 C308.66129,77.8697677 308.600806,70.9643126 308.600806,66.7241209 C308.600806,66.7241209 294.487903,69.7528293 291.524194,60.707087 C291.524194,60.707087 289.225806,54.8313928 285.919355,53.3170386 C285.919355,53.3170386 281.302419,50.1469905 286.241935,50.2075647 C286.241935,50.2075647 291.262097,50.6113925 294.024194,55.4169431 C298.439516,63.2108193 305.83871,60.9695751 308.721774,59.6369434 C309.185484,56.4063211 310.495968,54.165077 311.947581,52.8324453 C300.677419,51.5805792 289.306452,49.9450766 289.306452,30.5209604 C289.306452,24.9683284 290.83871,22.1819167 294.064516,18.6282322 C293.540323,17.3157919 291.826613,11.9044997 294.58871,4.91827906 C298.802419,3.60583877 308.5,10.3699541 308.5,10.3699541 C312.532258,9.23923632 316.866935,8.65368603 321.16129,8.65368603 C325.455645,8.65368603 329.790323,9.23923632 333.822581,10.3699541 C333.822581,10.3699541 343.520161,3.58564738 347.733871,4.91827906 C350.495968,11.9246911 348.782258,17.3157919 348.258065,18.6282322 C351.483871,22.2021081 353.459677,24.9885198 353.459677,30.5209604 C353.459677,50.0056508 341.584677,51.5603878 330.314516,52.8324453 C332.169355,54.427565 333.741935,57.4562734 333.741935,62.2012498 C333.741935,69.0057479 333.681452,77.4255571 333.681452,79.081251 C333.681452,80.3936913 334.608871,81.9888111 337.169355,81.5244091 C357.330645,74.820868 371,55.6592397 371,33.2669893 C371,5.26153267 348.318548,-16 320.354839,-16 Z M291.126246,53.5172943 C290.922658,53.6730058 290.96964,54.0311423 291.235871,54.3269942 C291.486441,54.5761327 291.846636,54.6851307 292.050225,54.4827057 C292.253813,54.3269942 292.206831,53.9688577 291.9406,53.6730058 C291.69003,53.4238673 291.329835,53.3148693 291.126246,53.5172943 Z M288.684248,52.4510073 C288.567359,52.7292495 288.734343,53.0717015 289.06831,53.285734 C289.335484,53.4997664 289.669452,53.4355567 289.78634,53.1359112 C289.903229,52.857669 289.736245,52.515217 289.402278,52.3011845 C289.06831,52.172765 288.801136,52.2369748 288.684248,52.4510073 Z M294.754603,59.5505088 C294.353548,59.8827597 294.503944,60.6494926 295.08046,61.1350901 C295.656977,61.7229186 296.383889,61.7995919 296.709746,61.3906677 C297.035603,61.0584168 296.885207,60.2916839 296.383889,59.8060864 C295.832438,59.2182579 295.08046,59.1415846 294.754603,59.5505088 Z M292.352941,55.9126288 C292.117647,56.1694226 292.117647,56.8370866 292.352941,57.4277125 C292.588235,58.0183384 292.985294,58.2751322 293.176471,58.0183384 C293.411765,57.6845064 293.411765,57.0168423 293.176471,56.4262165 C292.970588,55.8355906 292.588235,55.5787968 292.352941,55.9126288 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.50218564" style="mix-blend-mode: overlay;" mask="url(#mask-20)"></path>
+                        </g>
+                        <text id="Github" font-family="Helvetica" font-size="18" font-weight="normal" line-spacing="23" fill="#FFFFFF">
+                            <tspan x="20" y="37">Github</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-55" transform="translate(0.000000, 424.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-23)" xlink:href="#path-22"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-22"></use>
+                        </g>
+                        <text id="Join-the-discussion" font-family="Helvetica" font-size="15" font-weight="normal" line-spacing="23" fill="#575757">
+                            <tspan x="20" y="95">Join the discussion about new features, </tspan>
+                            <tspan x="20" y="118">improvements and governance of the Rocket Pool </tspan>
+                            <tspan x="20" y="141">protocol.</tspan>
+                        </text>
+                        <g id="Oval">
+                            <mask id="mask-25" fill="white">
+                                <use xlink:href="#path-24"></use>
+                            </mask>
+                            <g id="Mask">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-24"></use>
+                                <use fill="#6240CA" fill-rule="evenodd" xlink:href="#path-24"></use>
+                            </g>
+                            <g id="comments-solid" mask="url(#mask-25)" fill="#FFFFFF" fill-rule="nonzero" opacity="0.50218564">
+                                <g transform="translate(271.000000, -16.000000)" id="Shape">
+                                    <path d="M64.9992323,27.4999203 C64.9992323,12.3124643 50.4523995,-1.98951966e-13 32.4993265,-1.98951966e-13 C14.5462535,-1.98951966e-13 -0.000869048581,12.3124643 -0.000869048581,27.4999203 C-0.000869048581,33.6827149 2.44003856,39.368636 6.51033927,43.9686226 C3.94940919,49.0873578 0.380669529,52.9248467 0.324419692,52.9810965 C-0.00370435751,53.3256268 -0.0927665995,53.8365628 0.0992640942,54.2864052 C0.296294773,54.7342164 0.71848105,54.9998407 1.19629217,54.9998407 C7.18846231,54.9998407 12.2525101,53.2623457 16.1556238,51.2436016 C20.9681099,53.6092197 26.5305938,54.9998407 32.4993265,54.9998407 C50.4523995,54.9998407 64.9992323,42.6873763 64.9992323,27.4999203 Z M93.6866492,69.3279242 C97.6241378,64.6716877 99.999131,58.8435795 99.999131,52.4998479 C99.999131,37.3123919 86.5616699,24.9999276 69.9992179,24.9999276 C69.9500774,24.9999276 69.9024838,25.0063338 69.8533433,25.0066463 C69.9210931,25.8280502 69.9992179,26.6561728 69.9992179,27.4999276 C69.9992179,42.9092507 57.5492539,55.8123383 40.9211771,59.1404537 C44.1711677,71.109169 55.796134,79.9997683 69.9992179,79.9997683 C75.2632651,79.9997683 80.2054383,78.7485219 84.5069883,76.5654032 C88.3116648,78.4372728 93.1397758,79.9997683 98.7960094,79.9997683 C99.2739768,79.9997683 99.6960068,79.7302378 99.8928813,79.2802391 C100.084912,78.8303966 99.9957247,78.3196169 99.6677257,77.9749304 C99.624132,77.9216493 96.2335169,74.2654099 93.6866492,69.3279242 Z" style="mix-blend-mode: overlay;"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Forum" font-family="Helvetica" font-size="18" font-weight="normal" line-spacing="23" fill="#FFFFFF">
+                            <tspan x="20" y="37">Forum</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-55" transform="translate(420.000000, 424.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+                        </g>
+                        <text id="In-placerat-libero-m" font-family="Helvetica" font-size="15" font-weight="normal" line-spacing="23" fill="#575757">
+                            <tspan x="20" y="95">In placerat libero mi, eget efficitur ipsum aliquet a. </tspan>
+                            <tspan x="20" y="118">Vivamus gravida dui faucibus, porttitor lorem vel, </tspan>
+                            <tspan x="20" y="141">facilisis ipsum. Cras orci ex, mattis eget quam a.</tspan>
+                        </text>
+                        <g id="Oval">
+                            <mask id="mask-30" fill="white">
+                                <use xlink:href="#path-29"></use>
+                            </mask>
+                            <g id="Mask">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-31)" xlink:href="#path-29"></use>
+                                <use fill="#6240CA" fill-rule="evenodd" xlink:href="#path-29"></use>
+                            </g>
+                            <path d="M364.845333,17.4438741 C361.399265,17.4438741 358.366726,18.8690025 356.138269,21.0986387 C347.936629,15.4211114 336.886239,11.7663468 324.641213,11.3755858 L331.00495,-17.3108681 L351.267827,-12.7596519 C351.267827,-7.79468869 355.311213,-3.74916313 360.27355,-3.74916313 C365.327782,-3.74916313 369.394142,-7.90961839 369.394142,-12.8745816 C369.394142,-17.8395447 365.350756,-22 360.27355,-22 C356.735587,-22 353.680074,-19.8623075 352.163805,-16.9430931 L329.78734,-21.9080562 C328.661625,-22.2068735 327.558883,-21.4023655 327.260224,-20.2760545 L320.276194,11.3525999 C308.123063,11.8582906 297.187542,15.5130551 288.962928,21.1905825 C286.734471,18.8690025 283.587062,17.4438741 280.140995,17.4438741 C267.367571,17.4438741 263.186343,34.5913859 274.879999,40.4528007 C274.46647,42.26869 274.28268,44.199509 274.28268,46.1303281 C274.28268,65.3925463 295.969931,81 322.596546,81 C349.338029,81 371.02528,65.3925463 371.02528,46.1303281 C371.02528,44.199509 370.818516,42.1767463 370.313093,40.360857 C381.777011,34.4764561 377.549835,17.4438741 364.845333,17.4438741 L364.845333,17.4438741 Z M293,42.0569858 C293,37.0380012 297.015209,33 302.057034,33 C306.984791,33 311,37.0151877 311,42.0569858 C311,46.9847161 306.984791,51 302.057034,51 C297.038023,51.0227174 293,46.9847161 293,42.0569858 L293,42.0569858 Z M342.308604,63.7421203 C333.884888,72.0859599 310.117978,72.0859599 301.694262,63.7421203 C300.768579,62.9398281 300.768579,61.5186246 301.694262,60.6017192 C302.504235,59.7994269 303.939044,59.7994269 304.749016,60.6017192 C311.182513,67.1346705 332.519506,67.2492837 339.230708,60.6017192 C340.04068,59.7994269 341.475489,59.7994269 342.285462,60.6017192 C343.234287,61.5186246 343.234287,62.9398281 342.308604,63.7421203 Z M342.942966,51 C338.015209,51 334,46.9847909 334,42.0570342 C334,37.0380228 338.015209,33 342.942966,33 C347.961977,33 352,37.0152091 352,42.0570342 C351.977186,46.9619772 347.961977,51 342.942966,51 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" opacity="0.50218564" style="mix-blend-mode: overlay;" mask="url(#mask-30)"></path>
+                        </g>
+                        <text id="Reddit" font-family="Helvetica" font-size="18" font-weight="normal" line-spacing="23" fill="#FFFFFF">
+                            <tspan x="20" y="37">Reddit</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
